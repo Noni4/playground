@@ -8,7 +8,7 @@ public class ParticipantList {
 	private List<Participant> allParticipants = new ArrayList<>();
 
 	public ParticipantList() {
-		allParticipants.add(new Participant("mirkoj"));
+		allParticipants.add(new Participant("noni4"));
 	}
 
 	@Override
